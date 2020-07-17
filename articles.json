@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The First Article",
+    "author": "Steve Jobs",
+    "year": 2000
+  },
+  {
+    "title": "The Second Article",
+    "author": "Bill Gates",
+    "year": 2010
+  },
+  {
+    "title": "The Last Article",
+    "author": "Elon Musk",
+    "year": 2050
+  }
+]
